@@ -2,7 +2,7 @@
 <h3 align="center">A passionate systems & AI engineer from India — building RAG apps, high-performance C/C++ systems, and real-time Flutter apps.</h3>
 
 <p align="center">
-  <a href="https://github.com/gt951436"><img src="https://github-profile-trophy.vercel.app/?username=gt951436" alt="Github" /></a>
+  <a href="https://github.com/gt951436"><img src="https://github-profile-trophy.vercel.app/?username=gt951436" alt="Bruised Vein" /></a>
 </p>
 
 <p align="center">
