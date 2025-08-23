@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Garv Tyagi</h1>
-<h3 align="center">A passionate systems & AI engineer from India — building RAG chatbots, high-performance C/C++ systems, and real-time Flutter apps.</h3>
+<h3 align="center">A passionate systems & AI engineer from India — building RAG apps, high-performance C/C++ systems, and real-time Flutter apps.</h3>
 
 <p align="center">
   <a href="https://github.com/gt951436"><img src="https://github-profile-trophy.vercel.app/?username=gt951436" alt="gt951436" /></a>
+</p>
+
+<p align="center">
+  <!-- Tech / Pipeline badges (replace CI link with your workflow URL if available) -->
+  <img src="https://img.shields.io/badge/Tech-C%2F%2BC%20%7C%20Python-blue?logo=c" alt="C/C++ & Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Flutter%20%7C%20Docker-brightgreen?logo=node.js" alt="Node, Flutter, Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/AI-LangChain%2C%20Pinecone%2C%20LLMs-orange?logo=openai" alt="LangChain Pinecone LLMs" />&nbsp;
+  <img src="https://img.shields.io/badge/CI-Workflow-passing-brightgreen?logo=github" alt="CI placeholder (replace link)" />
 </p>
 
 ### About me
@@ -41,7 +49,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gt951436&show_icons=true&locale=en&layout=compact" alt="top langs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gt951436&show_icons=true&locale=en" alt="github stats" /></p>
 
-<!-- Icons / Tech (kept compact & resume-aligned) -->
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
@@ -58,3 +65,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
 </p>
+
+<!-- Notes:
+- Replace the CI badge URL with your actual GitHub Actions workflow badge if you want a live CI status.
+- Keep project links updated to point to your repo folders.
+-->
