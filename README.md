@@ -10,13 +10,13 @@
   <img src="https://img.shields.io/badge/Tech-C%2F%2BC%20%7C%20Python-blue?logo=c" alt="C/C++ & Python" />&nbsp;
   <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Flutter%20%7C%20Docker-brightgreen?logo=node.js" alt="Node, Flutter, Docker" />&nbsp;
   <img src="https://img.shields.io/badge/AI-LangChain%2C%20Pinecone%2C%20LLMs-orange?logo=openai" alt="LangChain Pinecone LLMs" />&nbsp;
-  <img src="https://img.shields.io/badge/CI-Workflow-passing-brightgreen?logo=github" alt="CI placeholder (replace link)" />
+  <!--<img src="https://img.shields.io/badge/CI-Workflow-passing-brightgreen?logo=github" alt="CI placeholder (replace link)" /> -->
 </p>
 
 ### About me
 - 🌱 I’m currently learning **RAGs, LLMs, Machine Learning, Deep Learning**  
 - 💬 Ask me about **Backend Development, RAGs, LangChain, LLMs, Machine Learning, Dart, Flutter**  
-- 📫 Reach me: **[garv.tyagi.2656@gmail.com](mailto:garv.tyagi.2656@gmail.com)**  
+- 📫 Reach me: **[garv.tyagi.2656@gmail.com](mailto:tyagigarv95@gmail.com)**  
 - 📄 Resume / Experiences: [View CV](https://drive.google.com/file/d/1kpPDBCrfR1uJTYTvyj18JJ4c0dGajHIV/view?usp=sharing)
 
 ### Selected Projects
