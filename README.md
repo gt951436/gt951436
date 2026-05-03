@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **RAGs, LLMs, Machine Learning, Deep Learning**  
 - 💬 Ask me about **Backend Development, RAGs, LangChain, LLMs, Machine Learning, Dart, Flutter**  
 - 📫 Reach me: **[tyagigarv95@gmail.com](mailto:tyagigarv95@gmail.com)**  
-- 📄 Resume / Experiences: [View CV](https://drive.google.com/file/d/1kpPDBCrfR1uJTYTvyj18JJ4c0dGajHIV/view?usp=sharing)
+- 📄 Resume / Experiences: [View CV]()
 
 ### Selected Projects
 - **RAG-MedBot** — Retrieval-augmented medical chatbot (LangChain, Pinecone, GPT, FastAPI, Docker).  
