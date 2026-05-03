@@ -1,35 +1,35 @@
 <h1 align="center">Hi 👋, I'm Garv Tyagi</h1>
-<h3 align="center">A passionate systems & AI engineer from India — building RAG apps, high-performance C/C++ systems, and real-time Flutter apps.</h3>
+<h3 align="center">Applied AI & Backend Engineer — building autonomous agent pipelines, document intelligence workflows, and low-latency RAG systems.</h3>
 
 <p align="center">
   <a href="https://github.com/gt951436"><img src="https://github-profile-trophy.vercel.app/?username=gt951436" alt="Bruised Vein" /></a>
 </p>
 
 <p align="center">
-  <!-- Tech / Pipeline badges (replace CI link with your workflow URL if available) -->
-  <img src="https://img.shields.io/badge/Tech-C%2F%2BC%20%7C%20Python-blue?logo=c" alt="C/C++ & Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Flutter%20%7C%20Docker-brightgreen?logo=node.js" alt="Node, Flutter, Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/AI-LangChain%2C%20Pinecone%2C%20LLMs-orange?logo=openai" alt="LangChain Pinecone LLMs" />&nbsp;
-  <!--<img src="https://img.shields.io/badge/CI-Workflow-passing-brightgreen?logo=github" alt="CI placeholder (replace link)" /> -->
+  <!-- Tech / Pipeline badges -->
+  <img src="https://img.shields.io/badge/Tech-Python%20%7C%20C%2F%2B%2B-blue?logo=python" alt="Python & C/C++" />&nbsp;
+  <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20Docker%20%7C%20Streamlit-brightgreen?logo=docker" alt="FastAPI, Docker, Streamlit" />&nbsp;
+  <img src="https://img.shields.io/badge/AI-LangGraph%20%7C%20LangChain%20%7C%20Pinecone-orange?logo=openai" alt="LangGraph Pinecone LLMs" />&nbsp;
 </p>
 
 ### About me
-- 🌱 I’m currently learning **RAGs, LLMs, Machine Learning, Deep Learning**  
-- 💬 Ask me about **Backend Development, RAGs, LangChain, LLMs, Machine Learning, Dart, Flutter**  
-- 📫 Reach me: **[tyagigarv95@gmail.com](mailto:tyagigarv95@gmail.com)**  
-- 📄 Resume / Experiences: [View CV]()
+- 💼 I’m currently an **SDE Intern @ VassarDigital.ai**, building multi-lingual NLP pipelines and fine-tuning vision models (PP-DocLayout V3) for document intelligence.
+- 🌱 I’m currently focused on **Agentic AI Orchestration, Layout Detection Models, and Vector Search Optimization**.  
+- 💬 Ask me about **LangGraph state management, RAG architectures, FastAPI, and Backend Engineering**.  
+- 📫 Reach me: **[garv.tyagi.2656@gmail.com](mailto:garv.tyagi.2656@gmail.com)**  
+- 📄 Resume / Experiences: [View CV](#) <!-- Add your Google Drive or hosted resume link here -->
 
 ### Selected Projects
-- **RAG-MedBot** — Retrieval-augmented medical chatbot (LangChain, Pinecone, GPT, FastAPI, Docker).  
+- **Multi-Agent Researcher** — Architected a 5-agent autonomous pipeline with a self-correcting feedback loop for structured research generation (Python, LangGraph, LLaMA3.3, Streamlit).  
+  Repo: https://github.com/gt951436/multi-agent-researcher
+- **RAG-MedBot** — Low-latency retrieval-augmented medical chatbot using 384-dimensional sentence embeddings (Gemini, LangChain, Pinecone, FastAPI, Docker).  
   Repo: https://github.com/gt951436/RAG-Medical-Bot
-- **Threaded HTTP proxy server** — Multi-threaded C proxy with semaphore sync and LRU caching.  
-  Repo: https://github.com/gt951436/threaded-proxy-server
-- **WordDash** — Real-time multiplayer typing game (Flutter, Node.js, Socket.io, MongoDB).  
-  Repo: https://github.com/gt951436/WordDash
+- **MusicG** — CNN-based music genre classifier trained on MFCC-derived spectrogram features achieving 91% accuracy (TensorFlow, Keras, Librosa).  
+  Repo: https://github.com/gt951436/MusicG
 
 ### Quick facts
-- 🛠 Languages & tools: **C / C++ · Python · JavaScript · Dart · Flutter · Node · Docker · Git · Pinecone · LangChain**  
-- 🏆 Achievements: Competitive programming (LeetCode / Codeforces), Hacktoberfest 2024 contributor, placed in !CodeToWin & SIH.
+- 🛠 Languages & tools: **Python · C++ · SQL · LangGraph · LangChain · FastAPI · TensorFlow · Pinecone · Docker · Git**  
+- 🏆 Achievements: **Competitive programming (Knight on LeetCode / Pupil on Codeforces), Hacktoberfest 2024 contributor, 4th place !CodeToWin, 7th place SIH 2023-24**.
 
 **⚡ Fun fact:** _I have more GitHub repos than houseplants._
 
@@ -51,22 +51,14 @@
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36"/>
 </p>
-
-<!-- Notes:
-- Replace the CI badge URL with your actual GitHub Actions workflow badge if you want a live CI status.
-- Keep project links updated to point to your repo folders.
--->
